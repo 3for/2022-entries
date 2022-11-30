@@ -1,0 +1,10 @@
+.vscode
+**/*.idea/
+**/target
+**/.DS_Store
+**storage_db
+**inner.proving*
+**outer.proving*
+**posw.proving*
+**universal.srs.*.*
+!**universal.srs.*.metadata
