@@ -5,25 +5,25 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies.snarkvm]
-path = "../TrapdoorTech-zprize-verifier-snarkVM"
+path = "../zprize-verifier-snarkVM"
 
 [dependencies.snarkvm-algorithms]
-path = "../TrapdoorTech-zprize-verifier-snarkVM/algorithms"
+path = "../zprize-verifier-snarkVM/algorithms"
 
 [dependencies.snarkvm-curves]
-path = "../TrapdoorTech-zprize-verifier-snarkVM/curves"
+path = "../zprize-verifier-snarkVM/curves"
 
 [dependencies.snarkvm-fields]
-path = "../TrapdoorTech-zprize-verifier-snarkVM/fields"
+path = "../zprize-verifier-snarkVM/fields"
 
 [dependencies.snarkvm-r1cs]
-path = "../TrapdoorTech-zprize-verifier-snarkVM/r1cs"
+path = "../zprize-verifier-snarkVM/r1cs"
 
 [dependencies.snarkvm-utilities]
-path = "../TrapdoorTech-zprize-verifier-snarkVM/utilities"
+path = "../zprize-verifier-snarkVM/utilities"
 
 [dependencies.snarkvm-dpc]
-path = "../TrapdoorTech-zprize-verifier-snarkVM/dpc"
+path = "../zprize-verifier-snarkVM/dpc"
 
 
 

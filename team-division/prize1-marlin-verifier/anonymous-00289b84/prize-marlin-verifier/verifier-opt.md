@@ -6,12 +6,11 @@
 
 + snarkVM:
 
-  https://github.com/Trapdoor-Tech/TrapdoorTech-zprize-verifier-snarkVM
+  ../zprize-verifier-snarkVM
 
 + ZPrize Test Harness:
 
-  https://github.com/Trapdoor-Tech/TrapdoorTech-prize-marlin-verifier
-
+  ./
 
 
 ## 2. Hardware Configuration & Performance Summary
